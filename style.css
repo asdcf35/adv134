@@ -1,0 +1,10 @@
+#container{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+#objdec{
+    width: calc(100vw - 10%);
+    margin:0;
+    font-size: 20px;
+}
